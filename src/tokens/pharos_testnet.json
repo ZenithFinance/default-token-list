@@ -1,18 +1,18 @@
 [
   {
-    "name": "USDC",
+    "name": "USDCoin",
     "address": "0xAD902CF99C2dE2f1Ba5ec4D642Fd7E49cae9EE37",
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 688688,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/eth…A0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
-    "name": "USDT",
+    "name": "Tether USD",
     "address": "0xEd59De2D7ad9C043442e381231eE3646FC3C2939",
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 688688,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/eth…dAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   }
 ]
