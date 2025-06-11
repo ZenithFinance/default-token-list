@@ -1,7 +1,7 @@
 [
   {
     "name": "USD Coin",
-    "address": "0xAD902CF99C2dE2f1Ba5ec4D642Fd7E49cae9EE37",
+    "address": "0x72df0bcd7276f2dFbAc900D1CE63c272C4BCcCED",
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 688688,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Tether USD",
-    "address": "0xEd59De2D7ad9C043442e381231eE3646FC3C2939",
+    "address": "0xD4071393f8716661958F766DF660033b3d35fD29",
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 688688,
