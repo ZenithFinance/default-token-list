@@ -1,0 +1,12 @@
+{
+  "name": "Tether USD",
+  "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
+  "website": "https://tether.to/",
+  "explorer": "https://testnet.pharosscan.xyz/token/0x34d9e02f9bb4e4c8836e38df4320d4a79106f194",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x34d9e02f9bb4e4c8836e38df4320d4a79106f194",
+  "links": []
+}

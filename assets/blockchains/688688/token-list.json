@@ -1,0 +1,22 @@
+{
+  "name": "Trust Wallet: Ethereum",
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "timestamp": "2021-11-09T22:30:24.689Z",
+  "tokens": [
+    {
+      "chainId": 688688,
+      "type": "ERC20",
+      "address": "0x72df0bcd7276f2dFbAc900D1CE63c272C4BCcCED",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "pairs": []
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
