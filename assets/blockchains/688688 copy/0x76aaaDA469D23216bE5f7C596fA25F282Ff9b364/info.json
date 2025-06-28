@@ -1,0 +1,12 @@
+{
+  "name": "Wrapped PHRS",
+  "description": "",
+  "website": "",
+  "explorer": "https://testnet.pharosscan.xyz/token/0x76aaaDA469D23216bE5f7C596fA25F282Ff9b364",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x76aaaDA469D23216bE5f7C596fA25F282Ff9b364",
+  "links": []
+}

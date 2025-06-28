@@ -1,12 +1,12 @@
 {
-  "name": "USD Coin",
-  "symbol": "USDC",
+  "name": "Tether USD",
   "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
-  "website": "https://www.circle.com/en/usdc",
-  "explorer": "https://testnet.pharosscan.xyz/token/0x72df0bcd7276f2dfbac900d1ce63c272c4bccced",
+  "website": "https://tether.to/",
+  "explorer": "https://testnet.pharosscan.xyz/token/0xD4071393f8716661958F766DF660033b3d35fD29",
   "type": "ERC20",
+  "symbol": "USDT",
   "decimals": 6,
   "status": "active",
-  "id": "0x72df0bcd7276f2dfbac900d1ce63c272c4bccced",
+  "id": "0xD4071393f8716661958F766DF660033b3d35fD29",
   "links": []
 }
