@@ -3,10 +3,10 @@
   "symbol": "USDC",
   "description": "The world’s largest regulated1 stablecoin powering global finance",
   "website": "https://www.circle.com/en/usdc",
-  "explorer": "https://testnet.pharosscan.xyz/token/0x72df0bcd7276f2dFbAc900D1CE63c272C4BCcCED",
+  "explorer": "https://atlantic.pharosscan.xyz/token/0xe0be08c77f415f577a1b3a9ad7a1df1479564ec8",
   "type": "ERC20",
   "decimals": 6,
   "status": "active",
-  "id": "0x72df0bcd7276f2dFbAc900D1CE63c272C4BCcCED",
+  "id": "0xe0be08c77f415f577a1b3a9ad7a1df1479564ec8",
   "links": []
 }
