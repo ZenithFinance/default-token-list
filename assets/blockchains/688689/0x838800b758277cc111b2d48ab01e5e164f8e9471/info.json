@@ -1,0 +1,12 @@
+{
+  "name": "Wrapped PHRS",
+  "description": "",
+  "website": "",
+  "explorer": "https://atlantic.pharosscan.xyz/token/0x838800b758277cc111b2d48ab01e5e164f8e9471",
+  "type": "ERC20",
+  "symbol": "WPHRS",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x838800b758277cc111b2d48ab01e5e164f8e9471",
+  "links": []
+}
